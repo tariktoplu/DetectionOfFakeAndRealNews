@@ -1,0 +1,1 @@
+There are dataset files named 'Fake.csv' and 'True.csv' in the folder named 'DetectionOfFakeAndRealNews'. You must include the 'Fake.csv' and 'True.csv' dataset files by creating a file folder named 'DetectionOfFakeAndRealNews' in the Jupyter Notebook platform. In this way, you can run the 'DetectionOfFakeAndRealNews.ipynb' file containing the model codes.
